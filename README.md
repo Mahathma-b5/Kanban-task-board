@@ -170,5 +170,3 @@ Possible future additions include:
 
 **Sai Mahathma Reddy Bokka**  
 Master's in Computer Science — New Jersey Institute of Technology
-
-Built as a Software Development Internship Assessment.
